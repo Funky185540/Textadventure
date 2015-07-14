@@ -1,1 +1,18 @@
+ID 1000
+Ein lautes Geräusch reißt dich unsanft aus deinem Schlaf, ein Geräusch von Metall, dass an eine Verlieswand schlägt.
+Du hörst das Geräusch von vielen Schritten auf dem Korridor vor deiner Zelle die schnell näher kommen.
 
+Aktion 1: Du stehst auf, um zu sehen was los ist.
+          To ID 1001
+          
+Aktion 2: Du bleibst liegen und versuchst erneut zu schlafen.
+          To ID 1002
+          
+ID 1001
+Du siehst den Kerkermeister, begleitet von den königlichen Wachen: "Guten Morgen Josef. Gut geschlafen heute?"
+Die Wachen fangen an zu kichern. "Ich habe gute Nachrichten für dich. Heute ist deine Strafe vorbei, du bist also
+wieder ein freier Mann sobald wir dich da raus geholt haben. Du solltest dich geehrt fühlen, dass der König es so
+gut mit dir meint, andere Leute haben wegen weniger schon mehr Strafe erhalten. Und jetzt mach Platz, damit ich 
+aufsperren kann."
+
+Aktion 1: Du gehst an das andere Ende deiner Zelle und wartest, bis die Männer des Königs dich rausholen.
